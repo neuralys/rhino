@@ -1,0 +1,14 @@
+{
+    "name": "neuralys/rhino",
+    "description": "Rhino JS binaries to work with Packagist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolas BELIN",
+            "email": "nico@neuralys.com"
+        }
+    ],
+    "require": {
+
+    }
+}
